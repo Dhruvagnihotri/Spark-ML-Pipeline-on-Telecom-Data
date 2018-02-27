@@ -8,7 +8,11 @@ Model accuracy is tested using Area under the ROC curve.
 Decision Tree classifier as well as RandomForest Classifier is used for the purpose of classification.
 
 How to run-:
+
 Make sure Pyspark is installed and working.
+
 Open Pyspark.
+
 Change directory to the cloned or downloaded repository.
+
 Run the SparkML.ipynb file and follow through the code.
